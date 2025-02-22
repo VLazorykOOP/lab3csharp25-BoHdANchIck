@@ -1,0 +1,15 @@
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\bin\Debug\net8.0\Lab_3_Daneliuk.exe
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\bin\Debug\net8.0\Lab_3_Daneliuk.deps.json
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\bin\Debug\net8.0\Lab_3_Daneliuk.runtimeconfig.json
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\bin\Debug\net8.0\Lab_3_Daneliuk.dll
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\bin\Debug\net8.0\Lab_3_Daneliuk.pdb
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\Lab_3_Daneliuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\Lab_3_Daneliuk.AssemblyInfoInputs.cache
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\Lab_3_Daneliuk.AssemblyInfo.cs
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\Lab_3_Daneliuk.csproj.CoreCompileInputs.cache
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\Lab_3_Daneliuk.sourcelink.json
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\Lab_3_Daneliuk.dll
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\refint\Lab_3_Daneliuk.dll
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\Lab_3_Daneliuk.pdb
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\Lab_3_Daneliuk.genruntimeconfig.cache
+C:\Users\danel\source\repos\lab3csharp25-BoHdANchIck\Lab_3_Daneliuk\Lab_3_Daneliuk\obj\Debug\net8.0\ref\Lab_3_Daneliuk.dll

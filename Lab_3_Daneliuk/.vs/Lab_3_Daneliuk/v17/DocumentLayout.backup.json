@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danel\\source\\repos\\lab3csharp25-BoHdANchIck\\Lab_3_Daneliuk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{834AB751-53AB-46C0-86FD-C33989469926}|Lab_3_Daneliuk\\Lab_3_Daneliuk.csproj|c:\\users\\danel\\source\\repos\\lab3csharp25-bohdanchick\\lab_3_daneliuk\\lab_3_daneliuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834AB751-53AB-46C0-86FD-C33989469926}|Lab_3_Daneliuk\\Lab_3_Daneliuk.csproj|solutionrelative:lab_3_daneliuk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834AB751-53AB-46C0-86FD-C33989469926}|Lab_3_Daneliuk\\Lab_3_Daneliuk.csproj|c:\\users\\danel\\source\\repos\\lab3csharp25-bohdanchick\\lab_3_daneliuk\\lab_3_daneliuk\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834AB751-53AB-46C0-86FD-C33989469926}|Lab_3_Daneliuk\\Lab_3_Daneliuk.csproj|solutionrelative:lab_3_daneliuk\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trapeze.cs",
+              "DocumentMoniker": "C:\\Users\\danel\\source\\repos\\lab3csharp25-BoHdANchIck\\Lab_3_Daneliuk\\Lab_3_Daneliuk\\Trapeze.cs",
+              "RelativeDocumentMoniker": "Lab_3_Daneliuk\\Trapeze.cs",
+              "ToolTip": "C:\\Users\\danel\\source\\repos\\lab3csharp25-BoHdANchIck\\Lab_3_Daneliuk\\Lab_3_Daneliuk\\Trapeze.cs",
+              "RelativeToolTip": "Lab_3_Daneliuk\\Trapeze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:38:12.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danel\\source\\repos\\lab3csharp25-BoHdANchIck\\Lab_3_Daneliuk\\Lab_3_Daneliuk\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_3_Daneliuk\\Program.cs",
+              "ToolTip": "C:\\Users\\danel\\source\\repos\\lab3csharp25-BoHdANchIck\\Lab_3_Daneliuk\\Lab_3_Daneliuk\\Program.cs",
+              "RelativeToolTip": "Lab_3_Daneliuk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:37:34.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
